@@ -1,14 +1,14 @@
 # Terms of Use
 
-Last updated: 2025-01-08
+Last updated: 2025-05-10
 
 ## Agreement to Terms
 
-By downloading, installing, or using the Cloud Exams mobile application ("App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using the AI Exams mobile application ("App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ## Description of Service
 
-Cloud Exams is a mobile application that provides practice questions and quizzes for cloud computing certification exams, including AWS, Azure, and Google Cloud Platform certifications.
+AI Exams is a mobile application that provides practice questions and quizzes for AI computing certification exams, including AWS, Azure, Cloudera, Databricks, Google Cloud, IBM, IEEE, Informs, ISACA, Nvidia, Oracle and SAS certifications.
 
 ## Subscription Terms
 
