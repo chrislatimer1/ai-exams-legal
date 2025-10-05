@@ -1,6 +1,6 @@
-# Cloud Exams - Legal Documents
+AI Exams - Legal Documents
 
-This repository contains the legal documents for the Cloud Exams mobile application.
+This repository contains the legal documents for the AI Exams mobile application.
 
 ## Documents
 
