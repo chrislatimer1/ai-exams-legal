@@ -88,12 +88,12 @@
 <body>
   <div class="container">
     <!-- App logo -->
-    <img src="logo.png" alt="Cloud Exams Logo" class="logo">
+    <img src="logo.png" alt="AI Exams Logo" class="logo">
 
     <h1>Privacy Policy</h1>
-    <div class="date">Last updated: 2025-08-11</div>
+    <div class="date">Last updated: 2025-10-05</div>
 
-    <p>Jackfin Apps (“we”, “our”, or “us”) operates the Cloud Exams mobile application (“App”). This Privacy Policy describes how the App handles information.</p>
+    <p>Jackfin Apps (“we”, “our”, or “us”) operates the AI Exams mobile application (“App”). This Privacy Policy describes how the App handles information.</p>
 
     <h2>Information We Do Not Collect</h2>
     <p>We do not collect, store, or share personal data.<br>
@@ -121,7 +121,7 @@
     </p>
 
     <!-- Back to Support Page Button -->
-    <a href="https://chrislatimer1.github.io/cloud-exams-legal/support.html" class="back-btn">← Back to Support Page</a>
+    <a href="https://chrislatimer1.github.io/ai-exams-legal/support.html" class="back-btn">← Back to Support Page</a>
 
     <footer>
       &copy; 2025 Jackfin Apps. All rights reserved.
